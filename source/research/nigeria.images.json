@@ -1,0 +1,147 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-4-copy-4.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-7-copy-2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-1-copy.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-5.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-8-copy-3.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-1-copy-2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-1-copy-3.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-2-copy-2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "694",
+    "height": "529",
+    "src": "wp-content/uploads/2021/08/CWAY-header-Banners-lagos-box-imageArtboard-6-2.jpg",
+    "class": "attachment-large size-large wp-image-2311",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "368",
+    "height": "281",
+    "src": "wp-content/uploads/2021/08/sagam-location.jpg",
+    "class": "attachment-large size-large wp-image-2582",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "351",
+    "height": "270",
+    "src": "wp-content/uploads/2021/10/Abuja-boxArtboard-1.jpg",
+    "class": "attachment-large size-large wp-image-3413",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "351",
+    "height": "270",
+    "src": "wp-content/uploads/2021/10/enugu-boxArtboard-1.jpg",
+    "class": "attachment-full size-full wp-image-3414",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "351",
+    "height": "270",
+    "src": "wp-content/uploads/2021/10/Ph-boxArtboard-1.jpg",
+    "class": "attachment-large size-large wp-image-3416",
+    "alt": ""
+  }
+]

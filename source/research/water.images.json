@@ -1,0 +1,58 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "353",
+    "height": "353",
+    "src": "wp-content/uploads/2025/09/thumbnail-refill.jpg",
+    "class": "attachment-portfolio_masonry_regular size-portfolio_masonry_regular wp-post-image",
+    "alt": ""
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "353",
+    "height": "353",
+    "src": "wp-content/uploads/2025/09/thumbnail-otg.jpg",
+    "class": "attachment-portfolio_masonry_regular size-portfolio_masonry_regular wp-post-image",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "353",
+    "height": "353",
+    "src": "wp-content/uploads/2025/09/thumbnail-prime.jpg",
+    "class": "attachment-portfolio_masonry_regular size-portfolio_masonry_regular wp-post-image",
+    "alt": ""
+  }
+]

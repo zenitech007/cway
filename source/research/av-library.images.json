@@ -1,0 +1,32 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  }
+]

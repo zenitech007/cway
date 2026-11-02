@@ -1,0 +1,122 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "1024",
+    "height": "313",
+    "src": "wp-content/uploads/2024/09/ongoing.jpg",
+    "class": "attachment-large size-large wp-image-3062",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "525",
+    "src": "wp-content/uploads/2024/09/ongoing1.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "525",
+    "src": "wp-content/uploads/2024/09/ongoing2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "525",
+    "src": "wp-content/uploads/2024/09/ongoing3.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "525",
+    "src": "wp-content/uploads/2024/09/ongoing4.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "525",
+    "src": "wp-content/uploads/2024/09/ongoing5.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "525",
+    "src": "wp-content/uploads/2025/03/proj1.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "525",
+    "src": "wp-content/uploads/2025/03/proj2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "525",
+    "src": "wp-content/uploads/2025/03/proj3.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "525",
+    "src": "wp-content/uploads/2025/03/proj4.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  }
+]

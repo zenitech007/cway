@@ -1,0 +1,53 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "src": "wp-content/uploads/2024/09/hd-soya.jpg",
+    "class": "attachment-large size-large wp-image-2818",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "src": "img/soya-1.png",
+    "class": "attachment-large size-large wp-image-420",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "147",
+    "height": "233",
+    "src": "wp-content/uploads/2021/07/PRODUCT-PAGE-TINY-SIZEArtboard-5-copy-2.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  }
+]

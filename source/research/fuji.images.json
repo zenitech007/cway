@@ -1,0 +1,49 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "1024",
+    "height": "514",
+    "src": "wp-content/uploads/2025/09/hd-fuji.jpg",
+    "class": "attachment-large size-large wp-image-4259",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "137",
+    "height": "400",
+    "src": "wp-content/uploads/2024/09/fuji_bottle.png",
+    "class": "attachment-large size-large wp-image-4258",
+    "alt": ""
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "1024",
+    "height": "513",
+    "src": "wp-content/uploads/2025/09/hd-nutri-yo.jpg",
+    "class": "attachment-large size-large wp-image-2822",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "src": "img/nutri-yo-1.png",
+    "class": "attachment-large size-large wp-image-3617",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "147",
+    "height": "233",
+    "src": "img/nutri-yo-1.png",
+    "class": "attachment-medium size-medium",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "147",
+    "height": "233",
+    "src": "img/nutri-yo-5.png",
+    "class": "attachment-medium size-medium",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "147",
+    "height": "233",
+    "src": "img/nutri-yo-4.png",
+    "class": "attachment-medium size-medium",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "147",
+    "height": "233",
+    "src": "img/nutri-yo-3.png",
+    "class": "attachment-medium size-medium",
+    "alt": ""
+  }
+]

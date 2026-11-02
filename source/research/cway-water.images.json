@@ -1,0 +1,64 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2025/09/hd-otg.jpg",
+    "alt": "CWAY-header-Banners-p-dispenser"
+  },
+  {
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2025/09/hd-refill.jpg",
+    "alt": "CWAY-header-Banners-on-the-go"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "384",
+    "height": "600",
+    "src": "wp-content/uploads/2021/07/PRODUCT-PAGESArtboard-1-copy-6_2.png",
+    "class": "attachment-large size-large wp-image-457",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "258",
+    "height": "587",
+    "src": "wp-content/uploads/2021/12/on-the-go.png",
+    "class": "attachment-large size-large wp-image-3727",
+    "alt": ""
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-9-copy-4-2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-2-2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/location-bannersArtboard-1.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/location-bannersArtboard-2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/location-bannersArtboard-5.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/location-bannersArtboard-6.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "360",
+    "height": "251",
+    "src": "wp-content/uploads/2021/08/LOCATION-NIGERIA-2.jpg",
+    "class": "attachment-large size-large wp-image-2269",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "739",
+    "height": "515",
+    "src": "wp-content/uploads/2021/08/India-box-imagesArtboard-1-copy-3-2.jpg",
+    "class": "attachment-large size-large wp-image-2268",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "739",
+    "height": "515",
+    "src": "wp-content/uploads/2021/08/Egypt-box-picsArtboard-1-copy-2-1.png",
+    "class": "attachment-large size-large wp-image-2676",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "368",
+    "height": "281",
+    "src": "wp-content/uploads/2021/08/l-china-2.jpg",
+    "class": "attachment-large size-large wp-image-2757",
+    "alt": ""
+  }
+]

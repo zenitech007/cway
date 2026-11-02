@@ -1,0 +1,66 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-9.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-7.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/09/Workin-at-cway-4-1.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/09/Workin-at-cway-5-1.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  }
+]

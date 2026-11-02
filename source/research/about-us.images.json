@@ -1,0 +1,230 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/09/header-bannersArtboard-3-1.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-9-copy-4.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/09/water-capacity.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-3-copy-4.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-9-copy-2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-3-copy-3.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-4-copy-2.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-6-copy-3.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-5-copy-3.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1902",
+    "height": "953",
+    "src": "wp-content/uploads/2021/09/header-bannersArtboard-5.jpg",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "560",
+    "height": "401",
+    "src": "wp-content/uploads/2021/08/about-cway-group.jpg",
+    "class": "attachment-large size-large wp-image-1773",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "700",
+    "height": "397",
+    "src": "wp-content/uploads/2021/08/header-bannersArtboard-who-we-are-1.jpg",
+    "class": "attachment-large size-large wp-image-2913",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "562",
+    "height": "356",
+    "src": "wp-content/uploads/2021/08/images-for-site-non-jaggedArtboard-2-copy-3.jpg",
+    "class": "attachment-large size-large wp-image-2152",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "478",
+    "height": "406",
+    "src": "wp-content/uploads/2021/08/milestones.jpg",
+    "class": "attachment-large size-large wp-image-2576",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "562",
+    "height": "356",
+    "src": "wp-content/uploads/2021/08/images-for-site-non-jaggedArtboard-5.jpg",
+    "class": "attachment-large size-large wp-image-2162",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1580",
+    "height": "630",
+    "src": "wp-content/uploads/2021/08/CWAY-header-Banners-range-3.jpg",
+    "class": "attachment-full size-full wp-image-2330",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "562",
+    "height": "356",
+    "src": "wp-content/uploads/2021/09/homes-5.jpg",
+    "class": "attachment-large size-large wp-image-2152",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "499",
+    "height": "228",
+    "src": "wp-content/uploads/2021/09/Csr-2.jpg",
+    "class": "attachment-full size-full wp-image-3117",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "499",
+    "height": "228",
+    "src": "wp-content/uploads/2021/08/work-culture-1.jpg",
+    "class": "attachment-full size-full wp-image-2901",
+    "alt": "",
+    "srcset": "wp-content/uploads/2021/08/work-culture-1.jpg 499w, wp-content/uploads/2021/08/work-culture-1-300x137.jpg 300w",
+    "sizes": "(max-width: 499px) 100vw, 499px"
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "564",
+    "height": "319",
+    "src": "wp-content/uploads/2021/08/Who-we-are-3.jpg",
+    "class": "attachment-large size-large wp-image-2586",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "562",
+    "height": "356",
+    "src": "wp-content/uploads/2021/08/images-for-site-non-jaggedArtboard-4-1.jpg",
+    "class": "attachment-large size-large wp-image-2152",
+    "alt": ""
+  }
+]

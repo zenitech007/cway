@@ -1,0 +1,98 @@
+{
+  "cway-dispenser-water-18.9litre": {
+    "slug": "cway-dispenser-water-18.9litre",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#306081",
+    "keyVisual": null
+  },
+  "cway-on-the-go-table-water-1.5l-and-750ml": {
+    "slug": "cway-on-the-go-table-water-1.5l-and-750ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#6e9eb9",
+    "keyVisual": null
+  },
+  "maca-plus-energy-drink-600ml": {
+    "slug": "maca-plus-energy-drink-600ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#1b0e0d",
+    "keyVisual": null
+  },
+  "nutri-choco-chocolate-milk-drink-400ml": {
+    "slug": "nutri-choco-chocolate-milk-drink-400ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#221109",
+    "keyVisual": null
+  },
+  "nutri-milk-apple-500ml": {
+    "slug": "nutri-milk-apple-500ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#cde596",
+    "keyVisual": null
+  },
+  "nutri-milk-banana-500ml": {
+    "slug": "nutri-milk-banana-500ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#ba730f",
+    "keyVisual": null
+  },
+  "nutri-milk-orange-500ml": {
+    "slug": "nutri-milk-orange-500ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#bb6314",
+    "keyVisual": null
+  },
+  "nutri-milk-peach-500ml": {
+    "slug": "nutri-milk-peach-500ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#dbc7ab",
+    "keyVisual": null
+  },
+  "nutri-milk-pear-500ml": {
+    "slug": "nutri-milk-pear-500ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#b4bbc1",
+    "keyVisual": null
+  },
+  "nutri-milk-pineapple-500ml": {
+    "slug": "nutri-milk-pineapple-500ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#b9405d",
+    "keyVisual": null
+  },
+  "nutri-yo-strawberry-yoghurt-400ml-and-125ml": {
+    "slug": "nutri-yo-strawberry-yoghurt-400ml-and-125ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#7a2119",
+    "keyVisual": null
+  },
+  "nutri-yo-sweetened-yoghurt-400ml-and-125ml": {
+    "slug": "nutri-yo-sweetened-yoghurt-400ml-and-125ml",
+    "frameCount": 120,
+    "filenamePattern": "frame-%03d.jpg",
+    "fps": 24,
+    "color": "#0577c7",
+    "keyVisual": null
+  }
+}

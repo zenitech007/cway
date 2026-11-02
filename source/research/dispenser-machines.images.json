@@ -1,0 +1,136 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "fetchpriority": "high",
+    "decoding": "async",
+    "width": "1024",
+    "height": "513",
+    "src": "wp-content/uploads/2025/09/hd-dispenser.jpg",
+    "class": "attachment-large size-large wp-image-3361",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "src": "wp-content/uploads/elementor/thumbs/Dispenser-page-imageArtboard-2-pbblf3lvzdeic2y3lai83rihwgzq4tsesz6of004gw.png",
+    "title": "Dispenser-page-imageArtboard-2",
+    "alt": "Dispenser-page-imageArtboard-2",
+    "loading": "lazy"
+  },
+  {
+    "decoding": "async",
+    "width": "446",
+    "height": "582",
+    "src": "wp-content/uploads/2021/08/Arctic-1B.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "width": "446",
+    "height": "582",
+    "src": "wp-content/uploads/2021/08/Ruby-4F.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "446",
+    "height": "582",
+    "src": "wp-content/uploads/2021/08/Executive-5F.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "446",
+    "height": "582",
+    "src": "wp-content/uploads/2021/08/Executive-2F.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "446",
+    "height": "582",
+    "src": "wp-content/uploads/2021/08/Ruby-2S.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "446",
+    "height": "582",
+    "src": "wp-content/uploads/2021/08/Executive-1C.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "446",
+    "height": "582",
+    "src": "wp-content/uploads/2021/08/Executive-3S.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "446",
+    "height": "582",
+    "src": "wp-content/uploads/2021/08/Ruby-2F.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "446",
+    "height": "582",
+    "src": "wp-content/uploads/2021/08/Ruby-3F-2.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "473",
+    "height": "743",
+    "src": "wp-content/uploads/2021/08/CWAY-site-repairerArtboard-2.png",
+    "class": "attachment-portfolio_masonry_tall size-portfolio_masonry_tall wp-image-1492",
+    "alt": ""
+  }
+]

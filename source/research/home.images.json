@@ -1,0 +1,549 @@
+[
+  {
+    "itemprop": "image",
+    "class": "normal",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "light",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "dark",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "sticky",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "itemprop": "image",
+    "class": "mobile",
+    "src": "wp-content/uploads/2022/05/FINAL_GROUP_LOGO_1.png",
+    "alt": "Logo"
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/1.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "WEB 2 CFRESH",
+    "width": "1200",
+    "height": "601",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2023/06/WEB-2-CFRESH.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "CWAY-Soya",
+    "width": "1902",
+    "height": "736",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2024/09/soya.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "CWAY-product-header-Banners-nutri-milk",
+    "width": "1902",
+    "height": "736",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2024/09/nutrimilk-hd.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/2.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/3.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/4.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/5.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/6.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/7.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/8.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/9.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/10.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/11.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/12.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/13.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/14.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/15.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/16.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/17.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/cafe-20.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "src": "wp-content/plugins/revslider/public/assets/assets/dummy.png",
+    "alt": "",
+    "title": "6",
+    "width": "1200",
+    "height": "602",
+    "class": "rev-slidebg tp-rs-img rs-lazyload",
+    "data-lazyload": "wp-content/uploads/2025/09/18.jpg",
+    "data-panzoom": "d:10000;ss:100;se:110%;",
+    "data-no-retina": null
+  },
+  {
+    "decoding": "async",
+    "src": "wp-content/uploads/elementor/thumbs/CWAY-home-imagesArtboard-1-pb6gbgbqri5arm99fhr3hk0excszrkj3f14gtg2pwq.jpg",
+    "title": "CWAY home imagesArtboard 1",
+    "alt": "CWAY home imagesArtboard 1",
+    "loading": "lazy"
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "271",
+    "height": "111",
+    "src": "wp-content/uploads/2021/08/WATER-water.png",
+    "class": "attachment-large size-large wp-image-2546",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "271",
+    "height": "111",
+    "src": "wp-content/uploads/2021/08/WATER-food-n-bevs.png",
+    "class": "attachment-large size-large wp-image-2710",
+    "alt": ""
+  },
+  {
+    "decoding": "async",
+    "src": "wp-content/uploads/elementor/thumbs/CWAY-home-imagesArtboard-1-copy-pb6gbvd5supvxdnezo94lg7sfiqv6q6st3k8hvgf56.jpg",
+    "title": "CWAY home imagesArtboard 1 copy",
+    "alt": "CWAY home imagesArtboard 1 copy",
+    "loading": "lazy"
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "1500",
+    "height": "1063",
+    "src": "wp-content/uploads/2021/08/CWAY-MAP-1.jpg",
+    "class": "attachment-full size-full wp-image-2992",
+    "alt": "",
+    "srcset": "wp-content/uploads/2021/08/CWAY-MAP-1.jpg 1500w, wp-content/uploads/2021/08/CWAY-MAP-1-300x213.jpg 300w, wp-content/uploads/2021/08/CWAY-MAP-1-1024x726.jpg 1024w, wp-content/uploads/2021/08/CWAY-MAP-1-768x544.jpg 768w, wp-content/uploads/2021/08/CWAY-MAP-1-700x496.jpg 700w",
+    "sizes": "(max-width: 1500px) 100vw, 1500px"
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p1.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p2.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p3.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n1.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n2.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n3.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n4.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n5.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n6.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n7.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n8.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n9.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "img/n10.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p4.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p5.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p6.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p7.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p8.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p9.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p10.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  },
+  {
+    "loading": "lazy",
+    "decoding": "async",
+    "width": "245",
+    "height": "212",
+    "src": "wp-content/uploads/2025/09/p11.png",
+    "class": "attachment-full size-full",
+    "alt": ""
+  }
+]

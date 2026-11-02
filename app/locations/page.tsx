@@ -1,0 +1,3 @@
+import {Presence} from '@/components/sections';
+export const metadata={title:'Our world',description:'CWAY’s presence across Nigeria, China, Egypt and India.'};
+export default function Locations(){return <><section className="inner-hero section" id="top"><span className="eyebrow">OUR GLOBAL PRESENCE</span><h1>Closer, wherever<br/>you are.</h1><p>CWAY has invested in 19 factories across Nigeria, China, Egypt and India, with 17 located in Nigeria.</p></section><div className="country-grid section">{['Nigeria','China','Egypt','India'].map(c=><a key={c} href={`https://cwaygroup.com/${c.toLowerCase()}`}>{c} ↗</a>)}</div><Presence/></>}
