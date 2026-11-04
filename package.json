@@ -1,1 +1,31 @@
-{"name":"cway-experience","version":"1.0.0","private":true,"scripts":{"dev":"next dev --hostname 0.0.0.0","build":"next build","start":"next start --hostname 0.0.0.0","assets":"node scripts/build-frames.mjs"},"dependencies":{"next":"latest","react":"latest","react-dom":"latest","framer-motion":"latest","lenis":"latest","lucide-react":"latest"},"devDependencies":{"typescript":"latest","@types/react":"latest","@types/node":"latest","@types/react-dom":"latest","tailwindcss":"latest","@tailwindcss/postcss":"latest","sharp":"latest","playwright":"latest"}}
+{
+  "name": "cway-experience",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "assets": "node scripts/build-frames.mjs",
+    "check": "tsc --noEmit",
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "framer-motion": "14.9.0",
+    "lenis": "1.3.27",
+    "lucide-react": "1.66.0"
+  },
+  "devDependencies": {
+    "typescript": "7.0.2",
+    "@types/react": "19.3.0",
+    "@types/node": "26.6.6",
+    "@types/react-dom": "19.3.0",
+    "tailwindcss": "4.3.3",
+    "@tailwindcss/postcss": "4.3.3",
+    "sharp": "0.35.5",
+    "playwright": "1.64.1"
+  }
+}

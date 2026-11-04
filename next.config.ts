@@ -1,2 +1,9 @@
 import type { NextConfig } from 'next';
-const config: NextConfig = { devIndicators: false, turbopack: {root: process.cwd()} }; export default config;
+const config: NextConfig = {
+  devIndicators: false,
+  turbopack: {root: process.cwd()},
+  async headers() {
+    return [{source: '/frames/:path*', headers: [{key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800'}]}];
+  },
+};
+export default config;

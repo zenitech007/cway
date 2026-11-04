@@ -3,3 +3,4 @@ node_modules/
 source/frames/
 source/zips/
 *.log
+*.tsbuildinfo
